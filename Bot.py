@@ -159,4 +159,4 @@ class MyClient(discord.Client):
         
 #Login
 client = MyClient()
-client.run('NzE5NjMyNjkwODkwMTQ1OTYy.Xt6QKw.Saa9tPdtxW9ALvF1s7PjQTRBtZ8')
+client.run('')
